@@ -40,8 +40,7 @@
 - File Upload (PDF, Docs)  
 - Secure Auth (JWT)  
 - Clean, modern UI  
-🔗 *Deploy Link:* _(Add here)_  
-🔗 *GitHub Repo:* _(Add here)_
+🔗 *Deploy Link:* _(https://ai-support-phae.onrender.com/login)_  
 
 ---
 
