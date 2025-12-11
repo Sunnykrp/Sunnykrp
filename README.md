@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
-<h3 align="center">Frontend Developer | MERN Stack | Building AI + Web Apps</h3>
+<h3 align="center">Frontend Developer • MERN Stack • AI + Web App Builder</h3>
 
 <p align="center">
-  🌱 Currently learning **Full Stack Web Development & AI**  
-  💼 Working at **Neet Support** as a Frontend Developer  
-  🎯 Focus: **Next.js, React.js, Node.js, MongoDB, AI Agents, LLM Apps**  
+  🌱 Currently learning <strong>Full-Stack Development & AI</strong> <br/>
+  💼 Frontend Developer at <strong>Neet Support</strong> <br/>
+  🚀 Passionate about <strong>Next.js, AI Integrations, and Scalable Web Apps</strong>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Tools**
+### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
@@ -35,32 +35,35 @@
 ## 🔥 Featured Projects
 
 ### 🧠 **AI Support – Full Stack AI Chat App**
-Next.js + Express + Groq LLaMA  
+**Next.js • Node.js • Express • Groq LLaMA**
 - Chat with AI  
-- File Upload  
-- Auth + JWT  
-- Beautiful UI  
-👉 *Link:* (Add Deploy Link)
+- File Upload (PDF, Docs)  
+- Secure Auth (JWT)  
+- Clean, modern UI  
+🔗 *Deploy Link:* _(Add here)_  
+🔗 *GitHub Repo:* _(Add here)_
 
 ---
 
-### 🏫 **Neet Support Platform (Work Project)**
+### 🏫 **Neet Support Platform (Live Work Project)**
+Tools developed for NEET aspirants:
 - Rank Predictor  
 - College Predictor  
 - Fees & Seat Matrix  
-- Analytics Dashboard  
-👉 Tech: **Next.js, React.js, Node.js, MongoDB**
+- Allotment & Cutoff Insights  
+**Tech:** Next.js, Node.js, MongoDB
 
 ---
 
-### 🛒 **E-commerce Platform**
-- Product listing  
-- Cart + CRUD  
-- Real API integration  
+### 🛒 **E-Commerce Platform**
+- Product listing & cart  
+- State management  
+- REST API integrations  
+- Fully responsive UI  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Sunnykrp&show_icons=true&theme=radical" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnykrp&layout=compact&theme=radical" />
@@ -68,18 +71,18 @@ Next.js + Express + Groq LLaMA
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies & Achievements
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Sunnykrp&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sunnykrp&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 📬 Connect with me
-- 📧 Email: sunny@neetsupport.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sunny-kumar-307a78191  
-- 📸 Instagram: https://www.instagram.com/mr_sunny_28  
+## 📬 Connect With Me
+- 📧 Email: **sunny@neetsupport.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/sunny-kumar-307a78191**  
+- 📸 Instagram: **https://www.instagram.com/mr_sunny_28**
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repos!**
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
