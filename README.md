@@ -1,66 +1,64 @@
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
-<h3 align="center">Frontend Developer | MERN Stack | AI & Next.js Enthusiast</h3>
+<h3 align="center">Frontend & MERN Stack Developer | React.js • Next.js • Node.js | Building Scalable Web Apps</h3>
 
 <p align="center">
-  🚀 Passionate about building fast, scalable, and beautiful web applications.<br/>
-  💼 Frontend Developer at <strong>Neet Support</strong> (EdTech Platform for NEET Aspirants)<br/>
-  🤖 Exploring AI Integrations – LLM Apps, AI Agents, Chat Systems & Automations<br/>
-  🎯 Skilled in <strong>Next.js, React, Node.js, MongoDB, Tailwind, Redux</strong>
+  💼 Currently at <strong>Neet Support</strong> — serving 10,000+ monthly users<br/>
+  ⚡ Improved frontend performance by 30% using code splitting & Redux Toolkit<br/>
+  🤖 Built AI-powered chat systems with OpenAI & Groq integrations<br/>
+  🌐 Portfolio: <a href="https://www.sunnydev.me">sunnydev.me</a> &nbsp;|&nbsp; 📧 sunnykrp3@gmail.com
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### **Frontend**
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### **Backend**
+### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge)
-
-### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-### **Tools**
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-333?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧠 **AI Support – Full Stack AI Chat App**
-**Next.js + Express + Groq LLaMA + JWT Auth**  
-- Real-time AI chat  
-- File upload & PDF extraction  
-- Chat sessions history  
-- Beautiful UI, Markdown, Code Highlighting  
-👉 *Deploy Link:*(https://ai-support-phae.onrender.com/login)
+### 🧠 AI Support System — [Live Demo](https://ai-support-phae.onrender.com/login) | [GitHub](#)
+**Next.js • Node.js • MongoDB • Groq LLaMA • JWT**
+- Real-time AI chat with streaming responses and WebSocket integration
+- JWT authentication with protected routes and role-based access
+- File upload, PDF extraction, and persistent chat history
+- Optimized MongoDB schema for fast data retrieval
 
 ---
 
-### 🏫 **Neet Support Platform (Work Project)**  
-⚡ EdTech Platform used by thousands of NEET Aspirants  
-Built features like:  
-- Rank Predictor  
-- College Predictor  
-- Fees & Seat Matrix  
-- Allotment & Cutoff Trackers  
-Tech Used: **Next.js, React.js, Node.js, MongoDB, Tailwind**
+### 🏫 Neet Support Platform *(Production — 10,000+ Monthly Users)*
+**Next.js • React.js • Node.js • MongoDB • Tailwind CSS**
+- Built and maintained 15+ REST APIs handling 1L+ records with pagination & filtering
+- Integrated Razorpay payment gateway for subscription-based features
+- Improved performance by 30% via code splitting, lazy loading & memoization
+- Built Rank Predictor, College Predictor, Cutoff Trackers & CMS features
 
 ---
 
-### 🛒 **E-Commerce Platform**  
-- Product Listing  
-- Add to Cart  
-- Filters & Search  
-- REST API Integration  
+### 💰 Fincalcify — MERN Finance Platform | [GitHub](#)
+**React.js • Node.js • MongoDB • Express.js**
+- Interactive financial dashboards with real-time data
+- Reduced load time by 20% through optimized API handling
+- SEO-friendly routing and dynamic content management
 
 ---
 
@@ -73,7 +71,8 @@ Tech Used: **Next.js, React.js, Node.js, MongoDB, Tailwind**
 
 ---
 
-## 🏆 Trophies & Achievements
+## 🏆 Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sunnykrp&theme=tokyonight&no-frame=true&row=1&margin-w=20" />
 </p>
@@ -83,17 +82,20 @@ Tech Used: **Next.js, React.js, Node.js, MongoDB, Tailwind**
 ## 📬 Connect With Me
 
 <p align="center">
+  <a href="https://www.sunnydev.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
+  </a>
   <a href="https://www.linkedin.com/in/sunny-kumar-307a78191">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:sunnykrp3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://instagram.com/mr_sunny_28">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
-  </a>
 </p>
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
+<p align="center">
+  <strong>Open to Frontend & MERN Stack roles — Remote / Hybrid / Delhi NCR / Noida / Bengaluru</strong><br/>
+  ⭐ If you find my work useful, feel free to star my repositories!
+</p>
